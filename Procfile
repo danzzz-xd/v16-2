@@ -1,1 +1,1 @@
-worker : npm i ffmpeg &&  npm i @adiwajshing/baileys@latest && npm start
+worker: npm i @adiwajshing/baileys@latest && npm update && npm i pm2 -g && pm2 install ffmpeg && pm2 start main.js && pm2 save && pm2 logs
