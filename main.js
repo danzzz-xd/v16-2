@@ -10,7 +10,6 @@ const {
     Mimetype,
     GroupSettingChange
 } = require('@adiwajshing/baileys')
-const baileys = require("@Ramdaniofficial/baileys")
 const fs = require('fs')
 const moment = require('moment-timezone')
 const { banner, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, start, info, success, close } = require('./index')
