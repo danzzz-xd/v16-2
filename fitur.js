@@ -19,7 +19,6 @@ const {
    processTime,
 } = require("@adiwajshing/baileys")
 //NODE_MODULES
-const baileys = require("@Ramdaniofficial/baileys")
 const fs = require('fs')
 const crypto = require('crypto')
 const request = require('request')
