@@ -2,7 +2,7 @@
   "name": "RamdaniOfficial",
   "version": "0.0.1",
   "description": "© creator by ramdani official",
-  "main": "main.js",
+  "main": "fitur.js",
   "directories": {
     "lib": "lib"
   },
